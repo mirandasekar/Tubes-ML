@@ -5,20 +5,20 @@
 
 ### Dataset
 Dataset mencakup fitur berikut:
-Sex: Jenis kelamin (M, F, I/Infant).
-Length: Panjang cangkang (mm).
-Diameter: Diameter (mm).
-Height: Tinggi dengan daging (mm).
-Whole weight: Berat keseluruhan (gram).
-Shucked weight: Berat daging (gram).
-Viscera weight: Berat isi perut (gram).
-Shell weight: Berat cangkang kering (gram).
+Sex: Jenis kelamin (M, F, I/Infant). <br>
+Length: Panjang cangkang (mm). <br>
+Diameter: Diameter (mm). <br>
+Height: Tinggi dengan daging (mm). <br>
+Whole weight: Berat keseluruhan (gram). <br>
+Shucked weight: Berat daging (gram). <br>
+Viscera weight: Berat isi perut (gram). <br>
+Shell weight: Berat cangkang kering (gram). <br>
 Rings: Jumlah cincin, digunakan untuk menghitung usia (usia = cincin + 1,5 tahun).
 
 ### Target
 Kategori usia abalone berdasarkan jumlah cincin.
 
-### Merode dan Model
+### Metode dan Model
 Model yang digunakan adalah Random Forest, dipilih karena kemampuannya menangani data numerik dan kategorikal.
 
 ## **Anggota Group 11**
